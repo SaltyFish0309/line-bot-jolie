@@ -1,0 +1,590 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "【教室代號說明】",
+            "weight": "bold",
+            "color": "#1DB446",
+            "size": "lg",
+            "margin": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "FG：外語學院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold",
+                "margin": "lg"
+              },
+              {
+                "type": "separator",
+                "margin": "lg",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "text": "LA：外語A 大樓 ",
+                "weight": "bold",
+                "size": "lg",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "LB：外語B 大樓",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "LC：外語C 大樓",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "AV：外語視聽教室",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "FL：翻譯研究所教室 ",
+                "weight": "bold",
+                "size": "lg"
+              }
+            ],
+            "spacing": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "【教室代號說明】",
+            "weight": "bold",
+            "color": "#1DB446",
+            "size": "lg",
+            "margin": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "NM：進修部",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold",
+                "margin": "lg"
+              },
+              {
+                "type": "separator",
+                "margin": "lg",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "text": "ES：進修部教學大樓 ",
+                "weight": "bold",
+                "size": "lg",
+                "margin": "lg"
+              }
+            ],
+            "spacing": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "【教室代號說明】",
+            "weight": "bold",
+            "color": "#1DB446",
+            "size": "lg",
+            "margin": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SG：理工學院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold",
+                "margin": "lg"
+              },
+              {
+                "type": "separator",
+                "margin": "lg",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "text": "LS：生命科學系",
+                "weight": "bold",
+                "size": "lg",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "CH：化學系",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "LH：理工學院綜合教室",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "MA：數學系 ",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "PH：物理學系",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "SF：聖言樓",
+                "weight": "bold",
+                "size": "lg"
+              }
+            ],
+            "spacing": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "【教室代號說明】",
+            "weight": "bold",
+            "color": "#1DB446",
+            "size": "lg",
+            "margin": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "CG：文學院院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "IG：傳播學院院院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "KG：教育學院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold"
+              },
+              {
+                "type": "separator",
+                "margin": "lg",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "text": "LI：文華樓",
+                "weight": "bold",
+                "size": "lg",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "LF：文友樓",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "LE：文開樓",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "LP：積健樓 ",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "LG：文學院研究所大樓",
+                "weight": "bold",
+                "size": "lg"
+              }
+            ],
+            "spacing": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "【教室代號說明】",
+            "weight": "bold",
+            "color": "#1DB446",
+            "size": "lg",
+            "margin": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "AG：藝術學院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold",
+                "margin": "lg"
+              },
+              {
+                "type": "separator",
+                "margin": "lg",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "text": "AA：應用美術學系教室 ",
+                "weight": "bold",
+                "size": "lg",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "AL：景觀設計學系教室 ",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "AM：音樂學系教室 ",
+                "weight": "bold",
+                "size": "lg"
+              }
+            ],
+            "spacing": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "【教室代號說明】",
+            "weight": "bold",
+            "color": "#1DB446",
+            "size": "lg",
+            "margin": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "DG：醫學院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold",
+                "margin": "lg"
+              },
+              {
+                "type": "separator",
+                "margin": "lg",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "text": "DG：舊醫學大樓 ",
+                "weight": "bold",
+                "size": "lg",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "MD：國璽樓",
+                "weight": "bold",
+                "size": "lg"
+              }
+            ],
+            "spacing": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "【教室代號說明】",
+            "weight": "bold",
+            "color": "#1DB446",
+            "size": "lg",
+            "margin": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HG：民生學院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold",
+                "margin": "lg"
+              },
+              {
+                "type": "separator",
+                "margin": "lg",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "text": "EP：食品工廠",
+                "weight": "bold",
+                "size": "lg",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "FC：輔幼教室",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "HE：兒家、餐旅學系",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "NF：食科、營養學系",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "TC：織品服裝學系（朝橒樓） ",
+                "weight": "bold",
+                "size": "lg",
+                "wrap": true
+              }
+            ],
+            "spacing": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "【教室代號說明】",
+            "weight": "bold",
+            "color": "#1DB446",
+            "size": "lg",
+            "margin": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "JG：法律學院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "WG：社會科學學院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "MG：管理學院",
+                "size": "lg",
+                "align": "center",
+                "color": "#2c2cff",
+                "weight": "bold"
+              },
+              {
+                "type": "separator",
+                "margin": "lg",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "text": "LW：樹德樓",
+                "weight": "bold",
+                "size": "lg",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "BS：伯達樓 ",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "LM：利瑪竇樓",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "JS：濟時樓",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "type": "text",
+                "text": "SS：法園",
+                "weight": "bold",
+                "size": "lg"
+              }
+            ],
+            "spacing": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}
